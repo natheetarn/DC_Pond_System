@@ -2,6 +2,10 @@ import socket
 import time
 import threading
 
+# importing shoutdown function
+# import Shutdown
+# Shutdown.shutdown_menu()
+
 MULTICAST_GROUP = '224.1.1.1'
 MULTICAST_PORT = 5007
 INTERVAL = 2
