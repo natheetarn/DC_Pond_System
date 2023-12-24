@@ -8,18 +8,14 @@ class Startup:
         self.shutdown = Shutdown
         self.fish = Fish
         self.choices = {
-            1: self.fish.addFish(),
-            2: self.fish.moveFish(),
-            3: self.shutdown.shutdown_menu()
+            1: self.fish.addFish,
+            2: self.fish.moveFish,
+            3: self.shutdown.shutdown_menu
         }
 
     def startUp(self):
         print("Pond ID:", self.pond_id)
         print("Starting the server")
-
-        # TODO: implement something else that doesn't use threading
-        # server_thread = threading.Thread(target=MulticastServer.run_server, args=(12345,))
-        # server_thread.start()
 
         while True:
             try:
