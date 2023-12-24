@@ -4,7 +4,7 @@ def shutdown_menu():
         # print("press B to go back to main menu")
         choice = input("Please enter your choice: ")
         
-        if choice == "Q" | choice == "q" :
+        if choice == "Q" or choice == "q" :
             print("Quitting...")
             break #shutdown the system
         # elif chioce == "B" | choice == "b":
