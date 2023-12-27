@@ -1,0 +1,26 @@
+2023-12-27 19:25:34,736 - INFO - SETTING UP AS FIRST POND
+2023-12-27 19:25:39,738 - WARNING - No signal received within 5 seconds.
+2023-12-27 19:25:39,739 - INFO - SETTING UP AS FIRST POND
+2023-12-27 19:25:44,739 - INFO - Sent: Current time1: 19:25:44
+2023-12-27 19:25:44,740 - INFO - Received: Current time1: 19:25:44
+2023-12-27 19:25:48,949 - INFO - Sent: Current time1: 19:25:48
+2023-12-27 19:25:59,336 - WARNING - No signal received within 5 seconds.
+2023-12-27 19:25:59,337 - INFO - SETTING UP AS FIRST POND
+2023-12-27 19:26:04,337 - INFO - Sent: Current time1: 19:26:04
+2023-12-27 19:26:04,338 - INFO - Received: Current time1: 19:26:04
+2023-12-27 19:26:06,343 - INFO - Sent: Current time1: 19:26:06
+2023-12-27 19:26:06,345 - INFO - Received: Current time1: 19:26:06
+2023-12-27 19:26:08,346 - INFO - Sent: Current time1: 19:26:08
+2023-12-27 19:26:08,347 - INFO - Received: Current time1: 19:26:08
+2023-12-27 19:26:08,699 - INFO - Received: Current time2: 19:26:08
+2023-12-27 19:26:10,348 - INFO - Sent: Current time1: 19:26:10
+2023-12-27 19:26:10,348 - INFO - Received: Current time1: 19:26:10
+2023-12-27 19:26:10,702 - INFO - Received: Current time2: 19:26:10
+2023-12-27 19:26:12,355 - INFO - Sent: Current time1: 19:26:12
+2023-12-27 19:26:12,355 - INFO - Received: Current time1: 19:26:12
+2023-12-27 19:26:12,709 - INFO - Received: Current time2: 19:26:12
+2023-12-27 19:26:14,358 - INFO - Sent: Current time1: 19:26:14
+2023-12-27 19:26:14,359 - INFO - Received: Current time1: 19:26:14
+2023-12-27 19:26:14,714 - INFO - Received: Current time2: 19:26:14
+2023-12-27 19:26:16,362 - INFO - Sent: Current time1: 19:26:16
+2023-12-27 19:26:16,362 - INFO - Received: Current time1: 19:26:16

@@ -1,0 +1,5 @@
+2023-12-27 19:25:58,682 - INFO - SETTING UP AS SECOND POND
+2023-12-27 19:26:08,700 - INFO - Sent: Current time2: 19:26:08
+2023-12-27 19:26:10,702 - INFO - Sent: Current time2: 19:26:10
+2023-12-27 19:26:12,709 - INFO - Sent: Current time2: 19:26:12
+2023-12-27 19:26:14,714 - INFO - Sent: Current time2: 19:26:14
